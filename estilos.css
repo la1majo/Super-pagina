@@ -9,6 +9,11 @@
 .inicio {
     background-image: url("./imgs/PLANETAS.png");
     background-size: cover;
+    
+}
+
+h1{
+    color: rgb(111, 0, 255);
 }
 
 .contenedor{
